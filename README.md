@@ -131,22 +131,22 @@ Generated outputs should normally not be committed repeatedly. For the archived 
 
 ## Code and data availability
 
-Replace this section after the Zenodo release has been created:
+The Python code used for the bootstrap Monte Carlo calculations, fluid-composition simulations, mélange construction, mantle-mixing calculations, and visualization of halogen-ratio distributions is available in this GitHub repository. The version corresponding to the submitted manuscript will be archived on Zenodo and assigned a permanent DOI.
 
-The custom Python code used for the bootstrap Monte Carlo calculations, fluid-composition simulations, mélange construction, mantle-mixing calculations and visualization of halogen-ratio distributions is archived on Zenodo at https://doi.org/10.5281/zenodo.XXXXXXX. The version corresponding to the published analysis is v1.0.0. Input datasets and source data are available at [location and identifier].
+The input data required to reproduce the analyses are described in `data/README.md`.
 
 ## Citation
 
-Before creating the GitHub release, complete CITATION.cff.template, rename it to CITATION.cff and replace all placeholders with the final authors, software title, version, release date, repository URL and DOI.
+If you use this software, please cite the archived Zenodo release. Citation metadata are provided in `CITATION.cff`. A complete citation and DOI will be added after the first Zenodo archive is created.
 
 ## License
 
-No reuse license is granted merely by making a repository public. Select a license approved by all code owners before release. An MIT license template is included for consideration; replace the placeholders before renaming it to LICENSE.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
-Correspondence and requests concerning the code should be directed to:
+Correspondence concerning the code should be addressed to:
 
-[Corresponding author name]  
-[Institution]  
-[Email address]
+Yi-Cong Li  
+China University of Geosciences, Wuhan 430074, China
+yiconglicug@163.com
