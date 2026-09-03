@@ -1,0 +1,24 @@
+﻿stage,mineral,min_vol%,max_vol%
+Blueschist,Amphibole,70,80
+Blueschist,Garnet,10,15
+Blueschist,Muscovite,5,10
+Blueschist,Chlorite,0.1,0.5
+Blueschist,Lawsonite,0,0.1
+Blueschist,Apatite,0,0.1
+Blueschist,Epidote,1,5
+HP eclogite,Omphacite,65,70
+HP eclogite,Amphibole,1,5
+HP eclogite,Garnet,15,25
+HP eclogite,Muscovite,1,5
+HP eclogite,Chlorite,0,1
+HP eclogite,Lawsonite,0,0.1
+HP eclogite,Apatite,0,0.1
+HP eclogite,Epidote,0.1,1
+UHP eclogite,Omphacite,65,70
+UHP eclogite,Amphibole,0,1
+UHP eclogite,Garnet,20,25
+UHP eclogite,Muscovite,1,3
+UHP eclogite,Chlorite,0,0.1
+UHP eclogite,Lawsonite,0,0.1
+UHP eclogite,Apatite,0,0.1
+UHP eclogite,Epidote,0,0.1
