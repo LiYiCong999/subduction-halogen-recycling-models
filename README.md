@@ -1,5 +1,7 @@
 # Halogen recycling models for subduction-zone metamorphism
 
+[![DOI](https://zenodo.org/badge/1355689658.svg)](https://doi.org/10.5281/zenodo.22279267)
+
 This repository contains the Python code used to generate Figs. 4–6 of the associated Nature Communications manuscript. The scripts quantify stage-specific halogen release from altered oceanic crust (AOC), simulate fluid compositions during progressive metamorphic dehydration, and evaluate two alternative mechanisms of mantle modification.
 
 ## Repository contents
@@ -131,13 +133,13 @@ Generated outputs should normally not be committed repeatedly. For the archived 
 
 ## Code and data availability
 
-The Python code used for the bootstrap Monte Carlo calculations, fluid-composition simulations, mélange construction, mantle-mixing calculations, and visualization of halogen-ratio distributions is available in this GitHub repository. The version corresponding to the submitted manuscript will be archived on Zenodo and assigned a permanent DOI.
+The custom Python code used for the bootstrap Monte Carlo calculations, fluid-composition simulations, mélange construction, mantle-mixing calculations, and visualization of halogen-ratio distributions is archived on Zenodo at https://doi.org/10.5281/zenodo.22279268. The archived release (v1.0.0) contains the source code, input datasets, documentation, and validated outputs required to reproduce Figs. 4–6.
 
-The input data required to reproduce the analyses are described in `data/README.md`.
+The corresponding development repository is available at https://github.com/LiYiCong999/subduction-halogen-recycling-models.
 
 ## Citation
 
-If you use this software, please cite the archived Zenodo release. Citation metadata are provided in `CITATION.cff`. A complete citation and DOI will be added after the first Zenodo archive is created.
+Please cite the archived v1.0.0 release available on Zenodo at https://doi.org/10.5281/zenodo.22279268. Machine-readable citation metadata are provided in `CITATION.cff`.
 
 ## License
 
