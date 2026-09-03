@@ -8,6 +8,7 @@ authors:
 version: 1.0.0
 date-released: "2026-09-03"
 repository-code: "https://github.com/LiYiCong999/subduction-halogen-recycling-models"
+doi: "10.5281/zenodo.22279268"
 license: MIT
 keywords:
   - halogens
