@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived version below."
+title: "REPLACE WITH THE FINAL SOFTWARE TITLE"
+type: software
+authors:
+  - family-names: "REPLACE"
+    given-names: "REPLACE"
+    orcid: "https://orcid.org/REPLACE"
+version: 1.0.0
+date-released: "2026-09-03"
+repository-code: "https://github.com/REPLACE_OWNER/REPLACE_REPOSITORY"
+url: "https://doi.org/10.5281/zenodo.REPLACE"
+license: MIT
+keywords:
+  - halogens
+  - subduction
+  - Monte Carlo simulation
+  - mantle mixing
+  - geochemistry
