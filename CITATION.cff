@@ -1,15 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the archived version below."
-title: "REPLACE WITH THE FINAL SOFTWARE TITLE"
+title: "Halogen recycling models for subduction-zone metamorphism"
 type: software
 authors:
-  - family-names: "REPLACE"
-    given-names: "REPLACE"
-    orcid: "https://orcid.org/REPLACE"
+  - family-names: "Li"
+    given-names: "Yi-Cong"
 version: 1.0.0
 date-released: "2026-09-03"
-repository-code: "https://github.com/REPLACE_OWNER/REPLACE_REPOSITORY"
-url: "https://doi.org/10.5281/zenodo.REPLACE"
+repository-code: "https://github.com/LiYiCong999/subduction-halogen-recycling-models"
 license: MIT
 keywords:
   - halogens
