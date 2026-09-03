@@ -20,7 +20,7 @@ Detailed documentation:
 
 ## Software requirements
 
-- Python 3.9 or later
+- Python 3.9.13
 - NumPy
 - pandas
 - Matplotlib
